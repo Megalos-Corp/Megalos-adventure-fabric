@@ -1,7 +1,7 @@
 # Megalos Adventure 1.20.1 Fabric 
 ![logo modpack](https://cdn.modrinth.com/data/cached_images/1e506a807bb83cb3f8b15b80241aeae37c99b805.png)
 
-Modpack vanilla+ for the Megalos Adventure private server, with mainly the Create mod and some addons, plus the let's Do suite for food.
+Modpack vanilla+ for the Megalos Adventure private server, with mainly the Create mod and some addons, and the let's Do suite for food.
 
 ## Features
 - **Build effortlessly** : Build easily with **Create**, **Copycat+** and **Effortless Structure** tools.
